@@ -31,6 +31,9 @@
                             <constraint firstAttribute="trailing" secondItem="DJt-bE-r5G" secondAttribute="trailing" id="ixr-PR-GeX"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="pickerData" destination="DJt-bE-r5G" id="aVT-UB-qck"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
